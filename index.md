@@ -1,10 +1,18 @@
+---
+layout: default
+---
+
+![Branching](../assets/images/header-bg.jpg)
+
 ## Technology first, leading fashion.
 
-  > **Committed to a smart and beautiful life.**
-
-Our mission: Use AI technology to assist people in all aspects of home life and bring a human dimension to modern technology.<br><br>
-Our goal at Annivar has stayed the same since our inception. We strive to create high quality smart devices, that can become a “steward” of a consumer’s home – a friendly yet powerful resource that makes peoples’ lives easier and more convenient. We began making security cameras in 2020, and have since perfected our craft while extending our passion to many other smart devices, such as baby monitors, and doorbell cameras.<br><br>
-As we continue towards our ultimate goal we focus on improving customer’s lives by building the best smart devices in the industry – bringing your home closer to you wherever you are.<br>
+> **Committed to a smart and beautiful life.**
+>
+> Our mission: Use AI technology to assist people in all aspects of home life and bring a human dimension to modern technology.
+>
+> Our goal at **Annivar** has stayed the same since our inception. We strive to create high quality smart devices, that can become a “steward” of a consumer’s home – a friendly yet powerful resource that makes peoples’ lives easier and more convenient. We began making security cameras in 2020, and have since perfected our craft while extending our passion to many other smart devices, such as baby monitors, and doorbell cameras.
+>
+> As we continue towards our ultimate goal we focus on improving customer’s lives by building the best smart devices in the industry – bringing your home closer to you wherever you are.
 
 ## Annivar Products
 
@@ -24,7 +32,8 @@ Our R&amp;D team has been committed to enabling general consumers to use AI tech
 
 ## Contact
 
-**Email**: developer@annivar.com
+```yaml
+Email: developer@annivar.com
+```
 
-<div align="center">©2020 - 2021 Annivar Technologies Co., Ltd.</div>
-
+<div align="center">Copyright © 2021 Annivar Technologies Co., Ltd.</div>

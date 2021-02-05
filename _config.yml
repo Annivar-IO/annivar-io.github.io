@@ -1,1 +1,5 @@
-theme: jekyll-theme-leap-day
+title: Annivar 
+description: The official website for www.annivar.com.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-modernist
