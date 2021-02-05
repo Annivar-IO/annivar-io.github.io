@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## <div align="center"> Annivar Co.,Ltd.</div>
 
-You can use the [editor on GitHub](https://github.com/Annivar-IO/annivar.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+#### Technology first, leading fashion.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  > **Committed to a smart and beautiful life.**
 
-### Markdown
+Our mission: Use AI technology to assist people in all aspects of home life and bring a human dimension to modern technology.<br>
+Our goal at Annivar has stayed the same since our inception. We strive to create high quality smart devices, that can become a “steward” of a consumer’s home – a friendly yet powerful resource that makes peoples’ lives easier and more convenient. We began making security cameras in 2020, and have since perfected our craft while extending our passion to many other smart devices, such as baby monitors, and doorbell cameras.<br>
+As we continue towards our ultimate goal we focus on improving customer’s lives by building the best smart devices in the industry – bringing your home closer to you wherever you are.<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Annivar Products
 
-```markdown
-Syntax highlighted code block
+We are committed to using our rich products to serve home security and create smart homes.
 
-# Header 1
-## Header 2
-### Header 3
+* **Indoor Cameras.** Including normal cams and PTZ cams, to protect your property and family.
+* **Outdoor Cameras.** Including bullet cams and PTZ cams, covering every corner of your house. IP66 waterproof and night vision technology allows them to operate tightly outdoors.
+* **Doorbells.** Not only a camera or doorbell, but also a smart housekeeper.
 
-- Bulleted
-- List
+#### Annivar Protect
 
-1. Numbered
-2. List
+Our R&amp;D team has been committed to enabling general consumers to use AI technology, so that everyone can enjoy a smart home.<br>
+* **Continuous Video Recording.** Records what's happening for 24/7 and saves everything in the background, you can replay to catch anything you missed.
+* **Event Video Recording.** Automatically records a video clip when a motion is detected, and push it to your phone instantly.
+* **Human Detection.** Get alerted when human are detected. No more bothered by normal alerts, and won't miss important things.
+* **A.I-To be continued.** We will develop a variety of A.I (Artificial Intelligence) powered services, stay tuned.
 
-**Bold** and _Italic_ and `Code` text
+#### Contact
 
-[Link](url) and ![Image](src)
-```
+**Email**: developer@annivar.com
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<div align="center">©2020 - 2021 Annivar Technologies Co., Ltd.</div>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Annivar-IO/annivar.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
