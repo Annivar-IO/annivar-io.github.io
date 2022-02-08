@@ -33,7 +33,7 @@ Our R&amp;D team has been committed to enabling general consumers to use AI tech
 ## Contact
 
 ```yaml
-Email: developer@annivar.com
+Email: support@mpwsafe.com
 ```
 
 <div align="center">Copyright © 2021 Annivar Technologies Co., Ltd.</div>
